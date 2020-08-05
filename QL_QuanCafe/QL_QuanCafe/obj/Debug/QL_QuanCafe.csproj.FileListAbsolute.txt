@@ -1,0 +1,16 @@
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe.config
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.pdb
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.Properties.Resources.resources
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.frmMain.resources
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.GenerateResource.Cache
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.exe.licenses
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.exe
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.pdb
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.frmDanhSachBan.resources
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.frmDangNhap.resources
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.frmKetNoi.resources
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\bin\Debug\DAL_BLL.dll
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\bin\Debug\DAL_BLL.pdb
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.frmCTHD.resources

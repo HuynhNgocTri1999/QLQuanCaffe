@@ -1,0 +1,5 @@
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\DAL_BLL\bin\Debug\DAL_BLL.dll.config
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\DAL_BLL\bin\Debug\DAL_BLL.dll
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\DAL_BLL\bin\Debug\DAL_BLL.pdb
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\DAL_BLL\obj\Debug\DAL_BLL.dll
+C:\Users\Dilp\Desktop\DOANPMTM\DoAn\QL_QuanCafe\DAL_BLL\obj\Debug\DAL_BLL.pdb
